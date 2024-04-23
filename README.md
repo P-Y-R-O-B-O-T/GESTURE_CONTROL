@@ -1,7 +1,7 @@
 # GESTURE_CONTROL
 
 ![](ZZZ/ZZZ.png)
-# 🖐️ HandGesture-Controlled Computer Interaction 🌟🖥️👋✨🖱️
+# 🖐️ HandGesture-Controlled Computer Interaction 🖥️
 
 👋 Welcome 🎉 to HandGesture-Controlled-Computer! 🖐️ This 🚀 project revolutionizes 🌟 your computer interaction experience, empowering you 🌈 to control 🎮 your device using intuitive 👌 hand gestures. From adjusting volume 🔊 to switching workspaces 🌌, this project 🛠️ unlocks a new realm 🌠 of possibilities! 💫 Let's dive 🏊 into the future! 🚀
 
